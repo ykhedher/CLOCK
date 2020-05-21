@@ -1,0 +1,14 @@
+body{
+   font-size: 100px;
+   /* color: red; */
+   /* background-color: black; */
+   color: black;
+}
+
+.container{
+   height: 100vh;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   font-family: 'Andada';
+}
